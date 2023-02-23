@@ -1,0 +1,50 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+
+body{
+    background-image: url('NIT.jpg');
+}
+
+.cantainer{
+    max-width: 80%;
+    padding: 34px;
+    margin: 23px;
+    margin:auto;
+}
+.cantainer h1, p{
+    text-align: center;
+}
+input,textarea{
+   border: 2px solid saddlebrown;
+   border-radius: 6px;
+    width: 80%;
+    margin:11px 0px;
+}
+
+form{
+    display: flex table-column;
+}
+
+
+.btn {
+    background-color: #04AA6D;
+    color: white;
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 80%;
+    opacity: 0.9;
+  }
+
+  h1{
+    margin-right: 20%;
+  }
+  p{
+    margin-right: 22%;
+  }
